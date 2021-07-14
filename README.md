@@ -16,3 +16,9 @@ You can now open Cypress by running: `node_modules/.bin/cypress open` or by `npx
 Set autocomplete to VS Code
 
 `/// <reference types="cypress" />`
+
+## Cypress CLI
+
+`npx cypress run` - unlike `open` it runs non interactively with headless Chrome
+`npx cypress run --help`
+`npx cypress run --spec cypress/integration/todomvc-actions.spec.js` - runs a specific file
