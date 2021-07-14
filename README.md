@@ -19,6 +19,8 @@ Set autocomplete to VS Code
 
 ## Cypress CLI
 
-`npx cypress run` - unlike `open` it runs non interactively with headless Chrome
-`npx cypress run --help`
-`npx cypress run --spec cypress/integration/todomvc-actions.spec.js` - runs a specific file
+- `npx cypress run` - unlike `open` it runs non interactively with headless Chrome
+
+- `npx cypress run --help`
+
+-`npx cypress run --spec cypress/integration/todomvc-actions.spec.js` - runs a specific file
