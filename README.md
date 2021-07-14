@@ -23,4 +23,4 @@ Set autocomplete to VS Code
 
 - `npx cypress run --help`
 
--`npx cypress run --spec cypress/integration/todomvc-actions.spec.js` - runs a specific file
+- `npx cypress run --spec cypress/integration/todomvc-actions.spec.js` - runs a specific file
